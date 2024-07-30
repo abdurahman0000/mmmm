@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdfgsdgfs
 dfsgsdfg
 dfgsdgf
@@ -8,3 +9,5 @@ dfgdfg
 asfdlma.,smfdfds
 sdfsl;dfmsladf,
 sdflksdlgsdml;jgl;sdfsf
+=======
+
